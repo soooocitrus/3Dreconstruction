@@ -19,6 +19,8 @@ Note: Steps and code in this repo is my hobby / learning exercise. Ie, its proba
 * Python 3.5+
 * Install [OpenCV](http://opencv.org/): [Mac installation steps](https://gist.github.com/alyssaq/f60393545173379e0f3f)
 * pip install -r requirements.txt
+* python3 -m pip install opencv-python==3.4.2.16
+* python3 -m pip install opencv_contrib_python==3.4.2.16
 
 ## Example 3D cube reconstruction
 ```sh
